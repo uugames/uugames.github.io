@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Game Design &amp; Development @ UU Magee</title>
+    <link>https://github.com/dkcharles/game/tags/</link>
+    <description>Recent content in Tags on Game Design &amp; Development @ UU Magee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 01 Apr 2024 12:21:17 +0100</lastBuildDate>
+    <atom:link href="https://github.com/dkcharles/game/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Animation</title>
+      <link>https://github.com/dkcharles/game/tags/animation/</link>
+      <pubDate>Mon, 01 Apr 2024 12:21:17 +0100</pubDate>
+      <guid>https://github.com/dkcharles/game/tags/animation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coding</title>
+      <link>https://github.com/dkcharles/game/tags/coding/</link>
+      <pubDate>Mon, 01 Apr 2024 12:21:17 +0100</pubDate>
+      <guid>https://github.com/dkcharles/game/tags/coding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modelling</title>
+      <link>https://github.com/dkcharles/game/tags/modelling/</link>
+      <pubDate>Mon, 01 Apr 2024 12:21:17 +0100</pubDate>
+      <guid>https://github.com/dkcharles/game/tags/modelling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unity</title>
+      <link>https://github.com/dkcharles/game/tags/unity/</link>
+      <pubDate>Mon, 01 Apr 2024 12:21:17 +0100</pubDate>
+      <guid>https://github.com/dkcharles/game/tags/unity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unreal</title>
+      <link>https://github.com/dkcharles/game/tags/unreal/</link>
+      <pubDate>Mon, 01 Apr 2024 12:21:17 +0100</pubDate>
+      <guid>https://github.com/dkcharles/game/tags/unreal/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

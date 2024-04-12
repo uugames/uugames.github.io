@@ -1,0 +1,30 @@
+baseURL = 'https://github.com/dkcharles/game'
+languageCode = 'en-gb'
+title = 'Game Design & Development @ UU Magee'
+theme = 'PaperMod'
+
+[menu]
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 10
+[[menu.main]]
+  name = 'About'
+  url = '/about'
+  weight = 15
+[[menu.main]]
+  name = 'Tags'
+  url = '/tags'
+  weight = 20
+[[menu.main]]
+  name = 'Categories'
+  url = '/categories'
+  weight = 25
+[[menu.main]]
+  name = 'Archives'
+  url = '/archives'
+  weight = 30
+[[menu.main]]
+  name = 'Contacts'
+  url = '/contacts'
+  weight = 35
