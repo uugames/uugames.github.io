@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hello World! on Game Design &amp; Development @ UU Magee</title>
-    <link>https://github.com/dkcharles/game/</link>
+    <link>http://localhost:1313/dkcharles/game/</link>
     <description>Recent content in Hello World! on Game Design &amp; Development @ UU Magee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 01 Apr 2024 13:10:32 +0100</lastBuildDate>
-    <atom:link href="https://github.com/dkcharles/game/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/dkcharles/game/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://github.com/dkcharles/game/about/</link>
+      <link>http://localhost:1313/dkcharles/game/about/</link>
       <pubDate>Mon, 01 Apr 2024 13:10:32 +0100</pubDate>
-      <guid>https://github.com/dkcharles/game/about/</guid>
+      <guid>http://localhost:1313/dkcharles/game/about/</guid>
       <description>All about us!</description>
     </item>
     <item>
       <title>Testing</title>
-      <link>https://github.com/dkcharles/game/posts/testing/</link>
+      <link>http://localhost:1313/dkcharles/game/posts/testing/</link>
       <pubDate>Mon, 01 Apr 2024 12:21:17 +0100</pubDate>
-      <guid>https://github.com/dkcharles/game/posts/testing/</guid>
+      <guid>http://localhost:1313/dkcharles/game/posts/testing/</guid>
       <description>Just a test.</description>
     </item>
     <item>
       <title>Hello World</title>
-      <link>https://github.com/dkcharles/game/posts/helloworld/</link>
+      <link>http://localhost:1313/dkcharles/game/posts/helloworld/</link>
       <pubDate>Mon, 01 Apr 2024 11:32:44 +0100</pubDate>
-      <guid>https://github.com/dkcharles/game/posts/helloworld/</guid>
+      <guid>http://localhost:1313/dkcharles/game/posts/helloworld/</guid>
       <description>You need to start somewhere.
 Our first years learn to make pixel art, to create 2d sprite and skeletal animations, to make 3D models,and to begin learning to code in C#.
 Most of all, our students learn to make games, by making games.
@@ -34,9 +34,9 @@ using System; class Program { static void Main() { Console.WriteLine(&amp;#34;He
     </item>
     <item>
       <title>Contacts</title>
-      <link>https://github.com/dkcharles/game/contacts/</link>
+      <link>http://localhost:1313/dkcharles/game/contacts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/dkcharles/game/contacts/</guid>
+      <guid>http://localhost:1313/dkcharles/game/contacts/</guid>
       <description>Contact us here:</description>
     </item>
   </channel>

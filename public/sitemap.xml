@@ -2,50 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/dkcharles/game/about/</loc>
+    <loc>http://localhost:1313/dkcharles/game/about/</loc>
     <lastmod>2024-04-01T13:10:32+01:00</lastmod>
   </url><url>
-    <loc>https://github.com/dkcharles/game/tags/animation/</loc>
+    <loc>http://localhost:1313/dkcharles/game/tags/animation/</loc>
     <lastmod>2024-04-01T12:21:17+01:00</lastmod>
   </url><url>
-    <loc>https://github.com/dkcharles/game/categories/</loc>
+    <loc>http://localhost:1313/dkcharles/game/categories/</loc>
     <lastmod>2024-04-01T12:21:17+01:00</lastmod>
   </url><url>
-    <loc>https://github.com/dkcharles/game/tags/coding/</loc>
+    <loc>http://localhost:1313/dkcharles/game/tags/coding/</loc>
     <lastmod>2024-04-01T12:21:17+01:00</lastmod>
   </url><url>
-    <loc>https://github.com/dkcharles/game/categories/design/</loc>
+    <loc>http://localhost:1313/dkcharles/game/categories/design/</loc>
     <lastmod>2024-04-01T12:21:17+01:00</lastmod>
   </url><url>
-    <loc>https://github.com/dkcharles/game/categories/development/</loc>
+    <loc>http://localhost:1313/dkcharles/game/categories/development/</loc>
     <lastmod>2024-04-01T12:21:17+01:00</lastmod>
   </url><url>
-    <loc>https://github.com/dkcharles/game/tags/modelling/</loc>
+    <loc>http://localhost:1313/dkcharles/game/tags/modelling/</loc>
     <lastmod>2024-04-01T12:21:17+01:00</lastmod>
   </url><url>
-    <loc>https://github.com/dkcharles/game/posts/</loc>
+    <loc>http://localhost:1313/dkcharles/game/posts/</loc>
     <lastmod>2024-04-01T12:21:17+01:00</lastmod>
   </url><url>
-    <loc>https://github.com/dkcharles/game/tags/</loc>
+    <loc>http://localhost:1313/dkcharles/game/tags/</loc>
     <lastmod>2024-04-01T12:21:17+01:00</lastmod>
   </url><url>
-    <loc>https://github.com/dkcharles/game/posts/testing/</loc>
+    <loc>http://localhost:1313/dkcharles/game/posts/testing/</loc>
     <lastmod>2024-04-01T12:21:17+01:00</lastmod>
   </url><url>
-    <loc>https://github.com/dkcharles/game/tags/unity/</loc>
+    <loc>http://localhost:1313/dkcharles/game/tags/unity/</loc>
     <lastmod>2024-04-01T12:21:17+01:00</lastmod>
   </url><url>
-    <loc>https://github.com/dkcharles/game/tags/unreal/</loc>
+    <loc>http://localhost:1313/dkcharles/game/tags/unreal/</loc>
     <lastmod>2024-04-01T12:21:17+01:00</lastmod>
   </url><url>
-    <loc>https://github.com/dkcharles/game/</loc>
+    <loc>http://localhost:1313/dkcharles/game/</loc>
     <lastmod>2024-04-01T11:39:24+01:00</lastmod>
   </url><url>
-    <loc>https://github.com/dkcharles/game/posts/helloworld/</loc>
+    <loc>http://localhost:1313/dkcharles/game/posts/helloworld/</loc>
     <lastmod>2024-04-01T11:32:44+01:00</lastmod>
   </url><url>
-    <loc>https://github.com/dkcharles/game/archives/</loc>
+    <loc>http://localhost:1313/dkcharles/game/archives/</loc>
   </url><url>
-    <loc>https://github.com/dkcharles/game/contacts/</loc>
+    <loc>http://localhost:1313/dkcharles/game/contacts/</loc>
   </url>
 </urlset>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Animation on Game Design &amp; Development @ UU Magee</title>
-    <link>https://github.com/dkcharles/game/tags/animation/</link>
+    <link>http://localhost:1313/dkcharles/game/tags/animation/</link>
     <description>Recent content in Animation on Game Design &amp; Development @ UU Magee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 01 Apr 2024 12:21:17 +0100</lastBuildDate>
-    <atom:link href="https://github.com/dkcharles/game/tags/animation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/dkcharles/game/tags/animation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Testing</title>
-      <link>https://github.com/dkcharles/game/posts/testing/</link>
+      <link>http://localhost:1313/dkcharles/game/posts/testing/</link>
       <pubDate>Mon, 01 Apr 2024 12:21:17 +0100</pubDate>
-      <guid>https://github.com/dkcharles/game/posts/testing/</guid>
+      <guid>http://localhost:1313/dkcharles/game/posts/testing/</guid>
       <description>Just a test.</description>
     </item>
   </channel>

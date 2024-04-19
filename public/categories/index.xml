@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Game Design &amp; Development @ UU Magee</title>
-    <link>https://github.com/dkcharles/game/categories/</link>
+    <link>http://localhost:1313/dkcharles/game/categories/</link>
     <description>Recent content in Categories on Game Design &amp; Development @ UU Magee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 01 Apr 2024 12:21:17 +0100</lastBuildDate>
-    <atom:link href="https://github.com/dkcharles/game/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/dkcharles/game/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Design</title>
-      <link>https://github.com/dkcharles/game/categories/design/</link>
+      <link>http://localhost:1313/dkcharles/game/categories/design/</link>
       <pubDate>Mon, 01 Apr 2024 12:21:17 +0100</pubDate>
-      <guid>https://github.com/dkcharles/game/categories/design/</guid>
+      <guid>http://localhost:1313/dkcharles/game/categories/design/</guid>
       <description></description>
     </item>
     <item>
       <title>Development</title>
-      <link>https://github.com/dkcharles/game/categories/development/</link>
+      <link>http://localhost:1313/dkcharles/game/categories/development/</link>
       <pubDate>Mon, 01 Apr 2024 12:21:17 +0100</pubDate>
-      <guid>https://github.com/dkcharles/game/categories/development/</guid>
+      <guid>http://localhost:1313/dkcharles/game/categories/development/</guid>
       <description></description>
     </item>
   </channel>
