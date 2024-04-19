@@ -9,8 +9,8 @@ theme = 'PaperMod'
   url = '/'
   weight = 10
 [[menu.main]]
-  name = 'Course'
-  url = '/course'
+  name = 'Courses'
+  url = '/courses'
   weight = 15
 [[menu.main]]
   name = 'Tags'
