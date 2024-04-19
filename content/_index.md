@@ -6,5 +6,5 @@ draft = false
 +++
 
 # Welcome
-The Game Studio site provides information about learning and researching game design and development at Ulster University's Derry/Londonderry campus. We offer a vibrant hub for game development education, industry connections, and innovative research. Explore our courses, stay updated with news, and learn about our exciting projects.
+This site provides information about learning and researching game design and development on Ulster University's Derry/Londonderry campus. Our Game Studio offers a vibrant game development education hub, industry connections, and innovative research. Explore our courses, stay updated with news, and learn about our exciting projects.
 
