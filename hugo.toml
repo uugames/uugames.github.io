@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/dkcharles/game'
+baseURL = 'https://github.com/game'
 languageCode = 'en-gb'
 title = 'Game Design & Development @ UU Magee'
 theme = 'PaperMod'
